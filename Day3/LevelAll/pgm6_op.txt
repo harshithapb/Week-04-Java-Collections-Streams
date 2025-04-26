@@ -1,0 +1,15 @@
+This is a normal log entry.
+Another line of information here.
+[ERROR] Something went wrong at 10:00 AM.
+Just some more regular logging.
+WARNING: Low disk space.
+A critical ERROR occurred during processing.
+Info: User logged in successfully.
+DEBUG: Starting a new task.
+Error: Invalid input received.
+This line has the word error in lowercase.
+Here's another line with ERROR in uppercase.
+And one more with the word eRrOr mixed case.
+No errors to be found on this line.
+A final line for good measure.
+[ERROR] Database connection failed.
