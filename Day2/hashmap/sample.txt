@@ -1,0 +1,1 @@
+Hello world, hello Java! This is a sample text with some repeated words like hello and text.
